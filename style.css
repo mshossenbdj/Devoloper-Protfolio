@@ -12,7 +12,13 @@ h1 {
     color: orange;
 }
 
-section {
+.fexsible-continar {
+    display: flex;
+    padding-bottom: 160px;
+
+}
+
+.top-section {
     display: flex;
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
@@ -42,4 +48,8 @@ section {
 .Dream-big {
     background-image: url(images/dream-bg.png);
     background-position: right;
+    background-repeat: no-repeat;
+
 }
+
+.ex
